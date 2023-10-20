@@ -1,0 +1,3 @@
+Process ID: 1408, Parent Process ID: 1056, Transaction type: DEPOSIT, Prev. balance: 0, Current balance: 100
+Process ID: 1409, Parent Process ID: 1408, Transaction type: DEPOSIT, Prev. balance: 100, Current balance: 140
+Process ID: 1410, Parent Process ID: 1055, Transaction type: WITHDRAWAL, Prev. balance: 140, Current balance: 120
